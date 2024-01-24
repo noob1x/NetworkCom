@@ -1,4 +1,4 @@
-# Network Security Tool - NetworkCom
+# Networking for beginners in cybersyriity learning Tool - NetworkCom
 
 NetworkCom is an extensive tool designed to teach networking for cybersecurity beginners. It includes lessons and quizzes covering a variety of topics, with a focus on simplicity and clarity.
 
