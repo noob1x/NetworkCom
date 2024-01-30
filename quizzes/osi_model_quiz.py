@@ -19,7 +19,7 @@ def run_quiz():
                         "b) Transport Layer\n"
                         "c) Presentation Layer\n"
                         "Your choice: ",
-            "answer": "b"
+            "answer": "a"
         },
         {
             "question": "3. What is the primary function of the Network Layer?\n"
